@@ -36,4 +36,4 @@ class DiffEngine {
 }
 
 // ES module export
-export = DiffEngine
+export default DiffEngine
